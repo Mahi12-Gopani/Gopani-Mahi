@@ -77,11 +77,11 @@ export const ProjectsSection = () => {
                     ))}
                 </div>
                 <div className="text-center mt-12">
-                    <a className="cosmic-button w-fit flex items-center mx-auto gap-2" href="https://github.com/Mahi12-Gopani">
-                        Check My GitHub <ArrowRight size= {20}/>
-                    </a>
+                        <a className="cosmic-button w-fit flex items-center mx-auto gap-2" href="https://github.com/Mahi12-Gopani">
+                            Check My GitHub <ArrowRight size= {20}/>
+                        </a>
 
-                </div>
+                    </div>
             </div>
         </section>
     );
